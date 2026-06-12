@@ -47,7 +47,7 @@ Currently focused on:
 
 ## 📊 GitHub Stats
 
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVishwakarmaData&show_icons=true&theme=dark)
 
 ---
 
